@@ -1,1 +1,1 @@
-## Creating basic website recipe
+## Making basic website recipe
